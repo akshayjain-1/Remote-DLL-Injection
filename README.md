@@ -5,6 +5,6 @@ This prgram is being used solely for educational purposes and as a personal proj
 
  Perform remote dll injection using python and ctypes
  Typically involves 3 steps
-- 1. Allocate memory in a remote process
-- 2. Need to write a dll location into that remote memory
-- 3. Load the dll in the remote process
+- Allocate memory in a remote process
+- Need to write a dll location into that remote memory
+- Load the dll in the remote process
